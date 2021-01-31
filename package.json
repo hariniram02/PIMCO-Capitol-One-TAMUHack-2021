@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Finco",
+  "scripts": {
+    "lite": "lite-server --port 10001",
+    "start": "npm run lite"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
